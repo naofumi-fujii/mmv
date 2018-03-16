@@ -1,6 +1,6 @@
 # mmv
 
-`mkdir -p` if no directory exists before `mv`
+run `mkdir -p` if no directory exists before `mv`
 
 install
 --
